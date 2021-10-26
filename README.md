@@ -1,2 +1,18 @@
 # FarmerTravel
-Game Application simulating a farmer, his livestock and crops attempting to cross a river.
+Game Application simulating a travler atttempting to cross a river with their livestock and crops.
+
+## Controls
+### Placing Items
+### Attempt a Crossing
+
+## Success
+
+## Game Over
+
+## Problem Definition
+
+### Actions
+### Goal State
+### State Representation
+
+
